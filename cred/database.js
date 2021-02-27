@@ -1,5 +1,5 @@
 module.exports = {
   /* Add Your Database URL */
-  database: process.env.database,
-  secret: process.env.secret
+  database: "mongodb://cubyts:cubyts@localhost/",
+  secret: "hello"
 }
